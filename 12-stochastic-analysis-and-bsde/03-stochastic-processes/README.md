@@ -7,6 +7,10 @@
 ## Zakres
 _Do uzupelnienia - krotki opis tego, co obejmuje ten dzial._
 
+> 📖 Kanoniczne notatki z łańcuchów Markowa (podręcznik Abundo, w języku polskim):
+> [`05-probability-and-statistics/stochastic-processes/`](../../05-probability-and-statistics/stochastic-processes/) — od definicji po kolejki M/M/n.
+> Ten katalog jest miejscem dla tematów zaawansowanych (filtracje, procesy ciągłe ogólne), nie duplikuje notatek z `05`.
+
 ## Zagadnienia (checklista)
 - [ ] ⬜ _pierwsze zagadnienie - do uzupelnienia_
 - [ ] ⬜ _kolejne zagadnienie_

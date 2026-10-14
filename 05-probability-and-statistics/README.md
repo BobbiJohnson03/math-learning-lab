@@ -26,6 +26,7 @@ _Do uzupelnienia - krotki opis tego, co obejmuje ten dzial._
 - [parametric-and-nonparametric-tests](./parametric-and-nonparametric-tests/)
 - [probability-foundations](./probability-foundations/)
 - [random-variables](./random-variables/)
+- [stochastic-processes](./stochastic-processes/) — łańcuchy Markowa (Abundo, notatniki PL)
 
 ## Zagadnienia (checklista)
 - [ ] ⬜ _pierwsze zagadnienie - do uzupelnienia_

@@ -20,6 +20,10 @@ Oficjalny sylabus **nie pokazuje dokładnego podziału** zagadnień między seme
   - `tests/` — kolokwia i egzaminy
   - `revision/` — powtórki
 
+## Przedmioty z uczelni
+
+- [`tor-vergata/2026-2027/processi-stocastici/`](./tor-vergata/2026-2027/processi-stocastici/) — „Processi Stocastici" (Tor Vergata, LM, a.a. 2026/27): notatki z wykładów, zadania domowe, skrypty Scilab, słownik IT–PL. Teoria: [`05-probability-and-statistics/stochastic-processes/`](../05-probability-and-statistics/stochastic-processes/).
+
 ## Zasada
 
 Teoria pozostaje kanonicznie w działach `02`, `04`, `05`, `07` — tutaj tylko notatki z zajęć i linki do teorii.

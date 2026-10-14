@@ -27,7 +27,7 @@ Legenda statusów: `⬜ not-started` / `🟨 learning` / `🟦 reviewing` / `✅
 
 ## Etap 2 — procesy stochastyczne
 
-- [ ] ⬜ proces stochastyczny → [03-stochastic-processes](./03-stochastic-processes/)
+- [ ] ⬜ proces stochastyczny → [03-stochastic-processes](./03-stochastic-processes/); podstawy łańcuchów Markowa → [05-probability-and-statistics/stochastic-processes](../05-probability-and-statistics/stochastic-processes/) (notatniki z Abundo)
 - [ ] ⬜ filtracja → [04-filtrations-and-information](./04-filtrations-and-information/)
 - [ ] ⬜ adaptowalność → [04-filtrations-and-information](./04-filtrations-and-information/)
 - [ ] ⬜ warunkowa wartość oczekiwana → [05-conditional-expectation](./05-conditional-expectation/)
